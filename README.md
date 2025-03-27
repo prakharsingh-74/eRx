@@ -16,8 +16,6 @@ In this project, we are trying to solve the following UN Goals:
 
 > Our main goal is to create a unified platform/interface for standardizing the prescriptions in India.
 
-<p><img src="./readme_assets/youtube.png" height="14">
-
 ## 💻Technology Stack 
 
 <p><img src="./readme_assets/flutter.png" height="14"> <b>Flutter</b> : Cross-platform application developement</p>
