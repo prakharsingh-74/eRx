@@ -1,8 +1,7 @@
 <img src="./readme_assets/Logo-horizontal.png" width="70%">
 
 ## Google Solution Challenge 
-This project is a part of the solution for the problem statement for [Google Solution Challenge 2022](https://developers.google.com/community/gdsc-solution-challenge). 
-The mission of the 2022 Solution Challenge is to solve for one or more of the United Nations 17 Sustainable Development Goals using Google technology.
+This project is a part of the solution for the problem statement stated to make the digitized form of the prescription so that user's can easily buy the medicines online. 
 In this project, we are trying to solve the following UN Goals:
 
 <img src="./readme_assets/UN1.png" width="100" height="100"><img src="./readme_assets/UN2.png" width="100" height="100"><img src="./readme_assets/UN3.png" width="100" height="100"><img src="./readme_assets/UN5.png" width="100" height="100">
@@ -17,7 +16,7 @@ In this project, we are trying to solve the following UN Goals:
 
 > Our main goal is to create a unified platform/interface for standardizing the prescriptions in India.
 
-<p><img src="./readme_assets/youtube.png" height="14"> Intro Video: <a href = "https://youtu.be/yGIn7IrzZzw">Youtube</a></p>
+<p><img src="./readme_assets/youtube.png" height="14">
 
 ## 💻Technology Stack 
 
@@ -77,15 +76,3 @@ Download Links:
 <img src="./readme_assets/t4.png" width="100%">
 <img src="./readme_assets/t5.png" width="100%">
 <img src="./readme_assets/t6.png" width="100%">
-
-
-## 📃License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 👦Authors
-
-- Hevesh Lakhwani [@heveshL](https://github.com/HeveshL)
-- Shubham Joshi [@Shubhamjoshi301](https://github.com/Shubhamjoshi301)
-- Henay Lakhwani [@henaylakhwani](https://github.com/henaylakhwani)
-- Yash Thakre [@thakreyn](https://github.com/thakreyn)
