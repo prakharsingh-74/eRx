@@ -40,7 +40,6 @@ In this project, we are trying to solve the following UN Goals:
 [provider](https://pub.dev/packages/provider),
 [shared_preferences](https://pub.dev/packages/shared_preferences)
 
-
 ## ▶️Run on Local Machine
 
 ### Prerequisites:
